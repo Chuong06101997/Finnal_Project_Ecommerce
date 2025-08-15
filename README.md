@@ -1,10 +1,11 @@
 # Graduation Project — Customer Churn Analysis & Prediction
 
-C:\Users\User\Downloads\2023_12_27_638393109771583706_e-commerce-la-gi-3.webp
+<img width="869" height="585" alt="image" src="https://github.com/user-attachments/assets/21a41dca-aa68-40fa-9615-6c6c074f8c1a" />
+
 
 ## 1) Goals of the project 🎯
 
-Business Goal:
+# Business Goal:
 Giảm tỷ lệ khách hàng rời bỏ (churn) và duy trì doanh thu ổn định bằng cách:
 
 Xác định các yếu tố quan trọng tác động đến hành vi rời bỏ.
@@ -13,7 +14,7 @@ Dự đoán khả năng rời bỏ của từng khách hàng hiện tại hoặc
 
 Đưa ra giải pháp giữ chân khách hàng hiệu quả dựa trên phân tích dữ liệu.
 
-Questions to answer:
+# Questions to answer:
 
 Mô hình nào giải thích tốt nhất các yếu tố dẫn đến churn?
 
@@ -23,7 +24,7 @@ Từ dữ liệu, có thể rút ra insight gì cho chiến lược giữ chân 
 
 Ngưỡng xác suất dự đoán nào giúp mô hình phát hiện được nhiều nhất khách hàng có khả năng rời bỏ (churn)?
 
-2) Data sources 🗂️
+## 2) Data sources 🗂️
 
 Name: E-commerce Customer Churn Analysis & Prediction
 
@@ -31,17 +32,17 @@ Source: Kaggle Dataset
 
 Orginal link: https://www.kaggle.com/code/rishavwalde/e-commerce-customer-churn-analysis-and-prediction/notebook#Data-Exploration-and-Visualization
 
-Description:
+### Description:
 Dữ liệu chứa hồ sơ khách hàng và các đặc điểm liên quan đến hành vi rời bỏ, bao gồm: thời gian gắn bó (Tenure), điểm hài lòng (SatisfactionScore), khiếu nại (Complain), khoảng cách kho-hàng (WarehouseToHome), số thiết bị, tình trạng hôn nhân, phương thức thanh toán ưa thích, v.v.
 
-3) Data overview 🔍
+## 3) Data overview 🔍
 
 Dataset size: 5630 hàng × 20 cột
 
 <img width="861" height="852" alt="image" src="https://github.com/user-attachments/assets/45ea4bbf-0346-470d-8e54-1601bb65ad62" />
 <img width="860" height="127" alt="image" src="https://github.com/user-attachments/assets/8b12af58-3790-4c71-97ab-549407893cad" />
 
-4) Analytical tools used 📚
+## 4) Analytical tools used 📚
 
 Language: Python
 
@@ -53,7 +54,7 @@ Modeling: statsmodels, scikit-learn (Logistic Regression)
 
 Environment: Google Colab
 
-5) Model 📊
+## 5) Model 📊
 
 Model used: Logistic Regression
 
@@ -63,11 +64,11 @@ Threshold for churn classification: 0.5
 
 Evaluation metrics: F1-score, Precision, Recall 
 
-6) Forcasting New Customer
+## 6) Forcasting New Customer
 
 Xây dựng một mô hình dự đoán khả năng khách hàng mới sẽ rời bỏ (churn) dựa trên hồ sơ và hành vi ban đầu, từ đó xác định các yếu tố quan trọng nhất dẫn đến churn.
 
-7) Summary and Suggestions
+## 7) Summary and Suggestions
 
 Insight chính:
 
