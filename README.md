@@ -21,8 +21,36 @@ Từ dữ liệu, có thể rút ra insight gì cho chiến lược giữ chân 
 2) Data sources 🗂️
 
 Name: E-commerce Customer Churn Analysis & Prediction
+
 Source: Kaggle Dataset
+
 Orginal link: https://www.kaggle.com/code/rishavwalde/e-commerce-customer-churn-analysis-and-prediction/notebook#Data-Exploration-and-Visualization
 
 Description:
 Dữ liệu chứa hồ sơ khách hàng và các đặc điểm liên quan đến hành vi rời bỏ, bao gồm: thời gian gắn bó (Tenure), điểm hài lòng (SatisfactionScore), khiếu nại (Complain), khoảng cách kho-hàng (WarehouseToHome), số thiết bị, tình trạng hôn nhân, phương thức thanh toán ưa thích, v.v.
+
+3) Data overview 🔍
+
+Dataset size: 5630 hàng × 20 cột
+
+<img width="861" height="852" alt="image" src="https://github.com/user-attachments/assets/45ea4bbf-0346-470d-8e54-1601bb65ad62" />
+<img width="860" height="127" alt="image" src="https://github.com/user-attachments/assets/8b12af58-3790-4c71-97ab-549407893cad" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
