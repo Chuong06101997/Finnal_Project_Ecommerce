@@ -1,6 +1,6 @@
 # Graduation Project — Customer Churn Analysis & Prediction
 
-
+C:\Users\User\Downloads\2023_12_27_638393109771583706_e-commerce-la-gi-3.webp
 
 ## 1) Goals of the project 🎯
 
